@@ -35,7 +35,7 @@
     </section>!
 
 ```
-
+![ordered list](https://github.com/user-attachments/assets/0d08dd42-e681-4b50-a3e5-a100203a5876)
 
 ## Membuat unordered list
 ```html
