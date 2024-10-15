@@ -87,3 +87,78 @@
 </body>
 </html>
 ```
+## Membuat Table
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>HTML Lanjutan</title>
+</head>
+<body>
+   <header>
+       <h1>Membuat Table</h1>
+   </header>
+</body>
+</html>
+<table border="1" cellpadding="4" cellspacing="0">
+   <thead>
+       <tr>
+          <th>No.</th>
+          <th>Fakultas</th>
+          <th>Program Studi</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+         <td>1.</td>
+         <td>Teknik</td>
+         <td>Teknik Informatika</td>
+     </tr>
+     <tr>
+         <td>2.</td>
+         <td>Teknik</td>
+         <td>Teknik Industri</td>
+    </tr>
+    <tr>
+         <td>3.</td>
+         <td>Teknik</td>
+         <td>Teknik Lingkungan</td>
+    </tr>
+</tbody>
+</table>
+```
+
+## Membuat Form
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Lanjutan</title>
+</head>
+<body>
+  <header>
+    <h1>Membuat Form</h1>
+  </header>
+</body>
+</html>
+<form action="proses.php" method="post">
+  <fieldset>
+    <legend>Data Pelanggan</legend>
+    <p>
+      <label for="nama">Nama</label>
+      <input type="text" id="nama" name="nama">
+    </p>
+    <p>
+      <label for="alamat">Alamat</label>
+      <textarea id="alamat" name="alamat" cols="20" rows="3"></textarea>
+    </p>
+    <p>
+      <label>Jenis Kelamin</label>
+      <input id="jk_l" type="radio" name="kelamin" value="L" /><label
+for="jk_l">Laki-laki</label>
+      <input id="jk_p" type="radio" name="kelamin" value="P" /><label
+```
