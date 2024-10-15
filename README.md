@@ -35,7 +35,7 @@
     </section>!
 
 ```
-![Screenshoot hasil coding](assets/img/table.png)
+
 
 ## Membuat unordered list
 ```html
