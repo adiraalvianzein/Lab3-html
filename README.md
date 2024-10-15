@@ -88,6 +88,7 @@
 </body>
 </html>
 ```
+![description list](https://github.com/user-attachments/assets/e72aaaed-6a3e-4185-80d2-a0a029fe1365)
 ## Membuat Table
 ```html
 <!DOCTYPE html>
@@ -131,6 +132,8 @@
 </table>
 ```
 
+![table](https://github.com/user-attachments/assets/a01f1373-141e-4c22-af31-762d4d85ab68)
+
 ## Membuat Form
 ```html
 <!DOCTYPE html>
@@ -164,3 +167,5 @@ for="jk_l">Laki-laki</label>
       <input id="jk_p" type="radio" name="kelamin" value="P" /><label
     </p>
 ```
+![form](https://github.com/user-attachments/assets/3e7f4565-a764-42d6-aa8a-56f23d602421)
+
