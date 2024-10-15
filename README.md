@@ -161,4 +161,5 @@
       <input id="jk_l" type="radio" name="kelamin" value="L" /><label
 for="jk_l">Laki-laki</label>
       <input id="jk_p" type="radio" name="kelamin" value="P" /><label
+    </p>
 ```
